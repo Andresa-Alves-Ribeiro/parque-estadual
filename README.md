@@ -4,7 +4,7 @@
 
 
 ## :information_source: Sobre
-Uma página ecommerce no formato One Page, criada para solidificação dos conhecimentos em HTML. Projeto desenvolvido durante a realização do curso de HTML da plataforma Devmedia em Março/2022.
+Uma página de uma pousada com o formato One Page, criada para solidificação dos conhecimentos em HTML. Projeto desenvolvido durante a realização do curso de HTML da plataforma Devmedia em Março/2022.
 
 
 ## :rocket: Tecnologias Utilizadas 
